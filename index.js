@@ -160,4 +160,4 @@ bot.on("message", message => {
     }
 });
 
-bot.login("NjkyNDk5NDM0MzI3NzY5MTU4.XnvaaA.zMhKUcy7XiZVV3yEyHsBbNF317M");
+bot.login("NjkyNDk5NDM0MzI3NzY5MTU4.XnvcoQ.9dw_-oxzE0tIRDzcv4spRr_sh5s");
